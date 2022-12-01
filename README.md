@@ -1,4 +1,3 @@
 # hello-world
 Just another Repository.
-I am going to make edits.
-Great going
+It contains many hello world programs
